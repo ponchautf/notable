@@ -154,7 +154,7 @@
     "mkdirp": "^0.5.1",
     "overstated": "^1.1.2",
     "pify": "^4.0.1",
-    "primer-markdown": "^3.7.11",
+    "primer-markdown": "^4.0.0",
     "react": "^16.7.0",
     "react-codemirror2": "^5.1.0",
     "react-component-identity": "^1.0.1",
