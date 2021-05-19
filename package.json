@@ -135,7 +135,7 @@
     "codemirror-github-light": "^0.4.2",
     "crc-32": "^1.2.0",
     "decompress": "^4.2.0",
-    "electron-context-menu": "^0.10.1",
+    "electron-context-menu": "^3.1.0",
     "electron-dialog": "^1.0.0",
     "electron-is": "^3.0.0",
     "electron-localshortcut": "^3.1.0",
