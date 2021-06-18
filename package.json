@@ -130,7 +130,7 @@
   ],
   "dependencies": {
     "calls-batch": "^1.1.1",
-    "chokidar": "^2.0.4",
+    "chokidar": "^3.5.2",
     "codemirror": "git://github.com/fabiospampinato/CodeMirror.git",
     "codemirror-github-light": "^0.4.2",
     "crc-32": "^1.2.0",
