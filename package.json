@@ -146,7 +146,7 @@
     "filenamify": "^2.1.0",
     "globby": "^8.0.1",
     "gray-matter": "^4.0.1",
-    "highlight.js": "^9.13.1",
+    "highlight.js": "^11.1.0",
     "js-yaml": "^3.12.0",
     "katex": "^0.10.0",
     "lodash": "^4.17.11",
